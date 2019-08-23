@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerviewMVP</string>
+
+    <string name="SENDER_ID">Put your project Sender id</string>
+    <string name="notifications_admin_channel_name">Selva</string>
+    <string name="notifications_admin_channel_description">Selva Firebase PushNotification</string>
+</resources>
